@@ -10,8 +10,3 @@ Spams GAC (Grab Activation Code) SMS to a phone number repeatedly per 60 second.
 # How to use?
 Just type `./start.sh`
 
-# Me
-E-Mail:
-p4kl0nc4t@obsidiancyberteam.id
-admin@noxt.cf
-Do not hesitate to contact us :)
